@@ -24,7 +24,9 @@ from grail import *
 ## Functions 
 
 info - dictionary containing the data on information  
+
 ref - Reference Number
+
 sec - section interested in (i.e Name)
 
 ### Verify 
